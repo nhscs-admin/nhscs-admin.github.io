@@ -90,7 +90,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: https://raw.githubusercontent.com/Black-Sector-Technologies/cayman/master/assets/images/headerbg.jpeg;
+  background-image: url("https://raw.githubusercontent.com/Black-Sector-Technologies/cayman/master/assets/images/headerbg.jpeg");
 
   @include large {
     padding: 5rem 6rem;
