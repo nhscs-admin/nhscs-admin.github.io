@@ -1,7 +1,8 @@
-<p align="center"><h2>
+<h2>
+<p align="center">
 Welcome to Niceville High School Computer Science (NHSCS)
-</h2>
 </p>
+</h2>
 
 Niceville High School Computer Science (or NHSCS) is committed to technical education for students who want to pursue careers in Information Technology and Security.
 
