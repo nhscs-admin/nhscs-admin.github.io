@@ -87,9 +87,9 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color 000000;
+  color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color 000000;
+  background-color: $header-bg-color;
   background-image: url("https://github.com/NHSCS-ORG/img-host/blob/master/assets/NHSCS/headerbg.jpeg?raw=true");
 
   @include large {
